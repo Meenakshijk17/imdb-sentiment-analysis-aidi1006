@@ -1,4 +1,4 @@
-# imdb-sentiment-analysis-aidi1006
+# IMDB Movie Reviews Sentiment Analysis (For AIDI1006)
 
 This is a group submission for AIDI 1006 - AI Infrastructure and Architecture – Assignment 4 (Georgian College) submitted by Syam Prakash Narayanan(200521366) & Meenakshi Krishnakumar(200519372).
 
